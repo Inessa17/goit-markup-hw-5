@@ -22,6 +22,11 @@ a {
   text-decoration: none;
 }
 
+button {
+  cursor: pointer;
+  border: none;
+}
+
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
